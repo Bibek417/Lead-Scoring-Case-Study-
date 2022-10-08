@@ -9,4 +9,17 @@
 * Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
 # Solution 
+#### These are some useful Attributes which are contributing more towards the prediction.
+'Tags_Will revert after reading the email',
+'Tags_Closed by Horizzon',
+'Lead Org_Lead Add Form',
+'Tags_Ringing',
+'Last Not Act_Modified',
+'Last Act_SMS Sent',
+'Tags_Interested in other courses',
+'Tags_Already a student',
+'Tags_Lost to EINS',
+'Tags_switched off',
+'Tags_invalid number',
+'Total Time Spent on Website'
 
